@@ -54,3 +54,14 @@ K值的选择是KNN算法的关键，可以说这决定了最终的分类结果�
 
 > 令K折交叉检验方法的K等于数据集大小，即只留**一个数据样本**作为测试集，其余都为训练集，计算平均准确率。
 
+> 参考链接：
+>
+> - [留一法交叉验证 Leave-One-Out Cross Validation_留一交叉验证_白水baishui的博客-CSDN博客](https://blog.csdn.net/baishuiniyaonulia/article/details/122052893)
+>
+> - [8种交叉验证类型的深入解释和可视化介绍 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/257808534)
+> - [数据集划分方法(留出法、交叉验证)_留出法iris代码-CSDN博客](https://blog.csdn.net/qq_43468807/article/details/105757122)
+
+## 四、其他的一些参考链接
+
+[numpy数组旋转、排序操作笔记_numpy 数组旋转-CSDN博客](https://blog.csdn.net/xmxoxo/article/details/108843984?ops_request_misc=&request_id=&biz_id=102&utm_term=numpy n维数组旋转&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-2-108843984.142^v94^insert_down28v1&spm=1018.2226.3001.4187)
+
