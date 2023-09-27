@@ -65,3 +65,6 @@ K值的选择是KNN算法的关键，可以说这决定了最终的分类结果�
 
 [numpy数组旋转、排序操作笔记_numpy 数组旋转-CSDN博客](https://blog.csdn.net/xmxoxo/article/details/108843984?ops_request_misc=&request_id=&biz_id=102&utm_term=numpy n维数组旋转&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-2-108843984.142^v94^insert_down28v1&spm=1018.2226.3001.4187)
 
+[Pytorch进阶教程(2)---手把手实现CNN分类网络_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1W24y1d7tF/?spm_id_from=333.337.search-card.all.click&vd_source=f93db370c1345fea000ed5a0599bc6f2)
+
+https://github.com/Lavita666/Pytorch-NeuralNetworks
